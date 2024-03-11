@@ -1,8 +1,15 @@
-# MULTI NETWORK AUTOWITHDRAWAL/SWEEPER BOT
+# Multi Auto-Withdrawal crypto Bot
 
-Autowithdrawal sweeper bot that monitor several network simultaneously, bnb, eth, ftm, avax, polygon etc best in the market
+Autowithdrawal sweeper bot is a bot that monitors around the clock and displays balances from Seed phrases when funds arrive
 
-The script is control and monitor by telegram
+●Oursoftware has more extensive functionality than other competitors.
+software works on ETH, BSC, AVAX, FTM, Polygon networks
+●Auto withdrawal of tokens works on BNB, ETH, AVAX networks.
+You yourself can set which coin you want to withdraw by entering the address of the smart contract, and from what amount.
+●Setting the amount from which the withdrawal will be made.
+●Management takes place through a telegram bot.
+●Notifications in telegram and many more.
+
 
 
 **TELEGRAM: https://t.me/rashtug0**
