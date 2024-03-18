@@ -10,13 +10,13 @@ software works on ETH, BSC, AVAX, FTM, Polygon networks
 You yourself can set which coin you want to withdraw by entering the address of the smart contract, and from what amount.
 
 
-●Setting the amount from which the withdrawal will be made.
+● Setting the amount from which the withdrawal will be made.
 
 
-●Management takes place through a telegram bot.
+● Management takes place through a telegram bot.
 
 
-●Notifications in telegram and many more.
+● Notifications in telegram and many more.
 
 
 
